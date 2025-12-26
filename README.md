@@ -1,5 +1,7 @@
 # Sebby's Hackpad
 
+<img width="1248" height="824" alt="image" src="https://github.com/user-attachments/assets/fed46042-ead9-4e96-87f1-b14b957de205" />
+
 My personal hackpad for being a power user and probably do something funny. It has 4 buttons, 2 LEDs and an OLED panel.
 
 This is my second time creating a PCB (my first was the "blinky" LED chaser) so I'm still heavily relying on the guide to get me a working macropad, but I was able to add an OLED panel to it with some help from the Hack Club Slack community. I have worked with CAD software a lot in school and we use Autodesk Inventor instead of Fusion 360 so that's why I used Inventor when creating the case, it was a pretty similar process though.
